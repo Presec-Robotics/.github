@@ -1,1 +1,1 @@
-<img width="100%" src="https://raw.githubusercontent.com/Presec-Robotics/.github/main/profile/image/banner.png" />
+<img width="100%" src="https://github.com/Presec-Robotics/.github/blob/main/profile/image/banner.png" />
